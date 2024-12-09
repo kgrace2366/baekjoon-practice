@@ -4,35 +4,81 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd04dfc1-67d2-43e9-b7ab-70030014f12b" name="Changes" comment="">
+    <list default="true" id="dd04dfc1-67d2-43e9-b7ab-70030014f12b" name="Changes" comment="day 2">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/codingtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day1/BOJ11720.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day1/BOJ2439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day1/BOJ2742.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day10/BOJ1264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day10/BOJ15439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day11/BOJ5596.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day12/BOJ5532.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day2/BOJ15552.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day3/BOJ2480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day4/BOJ2440.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day4/BOJ25304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day5/BOJ10039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day5/BOJ3046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day6/BOJ10808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day6/BOJ5543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day7/BOJ10101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day7/BOJ2530.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day7/BOJ2752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day8/BOJ10797.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day9/BOJ10156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day9/BOJ24263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day9/BOJ2845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/day9/BOJ5554.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day3/BOJ10951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day3/BOJ11022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day4/BOJ10926.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day4/BOJ11382.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day4/BOJ11654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day4/BOJ18108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ10757.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ10807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ2475.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ25083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ25314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ2558.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ2743.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ3003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ7287.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ9086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ10699.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ11942.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ2420.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ27323.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ2744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ27866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ4101.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ10430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ10718.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ10998.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ2557.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ2739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/BOJ9498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10171.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10952.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ11021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ2741.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/BOJ8393.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ1000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ1001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ1008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ10430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ10430.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ10718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ10718.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ10869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ10869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ10998.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ10998.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ1330.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ2438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ2438.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ2557.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ2557.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ2739.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ2739.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/BOJ9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ9498.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10172.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10871.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10871.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10950.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10952.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10952.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ11021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ11021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ14681.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ14681.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ2741.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ2741.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ2753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/BOJ8393.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ8393.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,24 +110,72 @@
   "keyToString": {
     "Application.BOJ1000.executor": "Debug",
     "Application.BOJ1001.executor": "Debug",
+    "Application.BOJ10039.executor": "Run",
     "Application.BOJ1008.executor": "Debug",
+    "Application.BOJ10101.executor": "Run",
+    "Application.BOJ10156.executor": "Run",
     "Application.BOJ10171.executor": "Run",
     "Application.BOJ10172.executor": "Debug",
+    "Application.BOJ10699.executor": "Run",
+    "Application.BOJ10757.executor": "Run",
+    "Application.BOJ10797.executor": "Run",
+    "Application.BOJ10807.executor": "Run",
+    "Application.BOJ10808.executor": "Run",
     "Application.BOJ10871.executor": "Run",
+    "Application.BOJ10926.executor": "Run",
     "Application.BOJ10950.executor": "Run",
+    "Application.BOJ10951.executor": "Run",
     "Application.BOJ10952.executor": "Run",
     "Application.BOJ10998.executor": "Debug",
+    "Application.BOJ11021.executor": "Run",
+    "Application.BOJ11022.executor": "Run",
+    "Application.BOJ11382.executor": "Run",
+    "Application.BOJ11654.executor": "Run",
+    "Application.BOJ11720.executor": "Run",
+    "Application.BOJ11942.executor": "Run",
+    "Application.BOJ1264.executor": "Run",
     "Application.BOJ14681.executor": "Run",
+    "Application.BOJ15439.executor": "Run",
+    "Application.BOJ15552.executor": "Run",
+    "Application.BOJ18108.executor": "Run",
+    "Application.BOJ2420.executor": "Run",
+    "Application.BOJ24263.executor": "Run",
     "Application.BOJ2438.executor": "Debug",
+    "Application.BOJ2439.executor": "Run",
+    "Application.BOJ2440.executor": "Run",
+    "Application.BOJ2475.executor": "Run",
+    "Application.BOJ2480.executor": "Run",
+    "Application.BOJ25083.executor": "Run",
+    "Application.BOJ2530.executor": "Run",
+    "Application.BOJ25304.executor": "Run",
+    "Application.BOJ25314.executor": "Run",
+    "Application.BOJ2558.executor": "Run",
+    "Application.BOJ27323.executor": "Run",
     "Application.BOJ2739.executor": "Debug",
     "Application.BOJ2741.executor": "Run",
+    "Application.BOJ2742.executor": "Run",
+    "Application.BOJ2743.executor": "Run",
+    "Application.BOJ2744.executor": "Run",
+    "Application.BOJ2752.executor": "Run",
     "Application.BOJ2753.executor": "Run",
+    "Application.BOJ27866.executor": "Run",
+    "Application.BOJ2845.executor": "Run",
+    "Application.BOJ3003.executor": "Run",
+    "Application.BOJ3046.executor": "Run",
+    "Application.BOJ4101.executor": "Run",
+    "Application.BOJ5532.executor": "Run",
+    "Application.BOJ5543.executor": "Run",
+    "Application.BOJ5554.executor": "Run",
+    "Application.BOJ5596.executor": "Run",
+    "Application.BOJ7287.executor": "Run",
     "Application.BOJ8393.executor": "Run",
+    "Application.BOJ9086.executor": "Run",
     "Application.BOJ9498.executor": "Run",
     "Application.Boj2557.executor": "Debug",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Program Files/Spring/codingtest",
     "node.js.detected.package.eslint": "true",
@@ -98,13 +192,13 @@
       <recent name="day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ11021">
-    <configuration name="BOJ10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.BOJ10871" />
+  <component name="RunManager" selected="Application.BOJ5532">
+    <configuration name="BOJ1264" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze4.day10.BOJ1264" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="Bronze4.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.BOJ10952" />
+    <configuration name="BOJ15439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze4.day10.BOJ15439" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="Bronze4.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ11021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.BOJ11021" />
+    <configuration name="BOJ5532" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze4.day12.BOJ5532" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="Bronze4.day12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.BOJ14681" />
+    <configuration name="BOJ5554" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze4.day9.BOJ5554" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="Bronze4.day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2741" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.BOJ2741" />
+    <configuration name="BOJ5596" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze4.day11.BOJ5596" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="Bronze4.day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ11021" />
-        <item itemvalue="Application.BOJ10952" />
-        <item itemvalue="Application.BOJ14681" />
-        <item itemvalue="Application.BOJ10871" />
-        <item itemvalue="Application.BOJ2741" />
+        <item itemvalue="Application.BOJ5532" />
+        <item itemvalue="Application.BOJ5596" />
+        <item itemvalue="Application.BOJ15439" />
+        <item itemvalue="Application.BOJ1264" />
+        <item itemvalue="Application.BOJ5554" />
       </list>
     </recent_temporary>
   </component>
@@ -194,11 +288,57 @@
       <workItem from="1730890593315" duration="5681000" />
       <workItem from="1730947764747" duration="803000" />
       <workItem from="1731338845162" duration="1215000" />
-      <workItem from="1731373361906" duration="2977000" />
+      <workItem from="1731373361906" duration="3285000" />
+      <workItem from="1731462549810" duration="553000" />
+      <workItem from="1731546513474" duration="1463000" />
+      <workItem from="1731633497788" duration="5925000" />
+      <workItem from="1731892166327" duration="2913000" />
+      <workItem from="1731896321041" duration="9000" />
+      <workItem from="1731930575893" duration="2854000" />
+      <workItem from="1731978311931" duration="1354000" />
+      <workItem from="1732066424250" duration="1466000" />
+      <workItem from="1732151083217" duration="2602000" />
+      <workItem from="1732237411991" duration="2203000" />
+      <workItem from="1732443465670" duration="12000" />
+      <workItem from="1732498648361" duration="578000" />
+      <workItem from="1732669375905" duration="2014000" />
+      <workItem from="1732681037267" duration="270000" />
+      <workItem from="1732755845721" duration="1384000" />
+      <workItem from="1732849993636" duration="326000" />
+      <workItem from="1733273948626" duration="2706000" />
+      <workItem from="1733369742498" duration="3000" />
+      <workItem from="1733402395772" duration="757000" />
+      <workItem from="1733448020427" duration="363000" />
+      <workItem from="1733557860939" duration="279000" />
+      <workItem from="1733707017122" duration="294000" />
     </task>
+    <task id="LOCAL-00001" summary="day 2">
+      <option name="closed" value="true" />
+      <created>1731376631169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731376631169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2" />
   </component>
 </project>
