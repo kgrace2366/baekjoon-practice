@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd04dfc1-67d2-43e9-b7ab-70030014f12b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ10430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ10718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ10869.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ10998.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ1330.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ2438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ2557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/BOJ9498.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ10952.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ11021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ14681.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ2741.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/BOJ8393.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oQ7iDqx1YQmUBR2kCOdfzHZGAT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BOJ1000.executor": "Debug",
+    "Application.BOJ1001.executor": "Debug",
+    "Application.BOJ1008.executor": "Debug",
+    "Application.BOJ10171.executor": "Run",
+    "Application.BOJ10172.executor": "Debug",
+    "Application.BOJ10871.executor": "Run",
+    "Application.BOJ10950.executor": "Run",
+    "Application.BOJ10952.executor": "Run",
+    "Application.BOJ10998.executor": "Debug",
+    "Application.BOJ14681.executor": "Run",
+    "Application.BOJ2438.executor": "Debug",
+    "Application.BOJ2739.executor": "Debug",
+    "Application.BOJ2741.executor": "Run",
+    "Application.BOJ2753.executor": "Run",
+    "Application.BOJ8393.executor": "Run",
+    "Application.BOJ9498.executor": "Run",
+    "Application.Boj2557.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Program Files/Spring/codingtest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Program Files/Spring/codingtest/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BOJ11021">
+    <configuration name="BOJ10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.BOJ10871" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ10952" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.BOJ10952" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ11021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.BOJ11021" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.BOJ14681" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2741" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.BOJ2741" />
+      <module name="codingtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BOJ11021" />
+        <item itemvalue="Application.BOJ10952" />
+        <item itemvalue="Application.BOJ14681" />
+        <item itemvalue="Application.BOJ10871" />
+        <item itemvalue="Application.BOJ2741" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd04dfc1-67d2-43e9-b7ab-70030014f12b" name="Changes" comment="" />
+      <created>1730790072882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730790072882</updated>
+      <workItem from="1730790074012" duration="703000" />
+      <workItem from="1730890593315" duration="5681000" />
+      <workItem from="1730947764747" duration="803000" />
+      <workItem from="1731338845162" duration="1215000" />
+      <workItem from="1731373361906" duration="2977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
