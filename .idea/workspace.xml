@@ -5,80 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd04dfc1-67d2-43e9-b7ab-70030014f12b" name="Changes" comment="day 2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codingtest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day1/BOJ11720.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day1/BOJ2439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day1/BOJ2742.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day10/BOJ1264.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day10/BOJ15439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day11/BOJ5596.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day12/BOJ5532.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day2/BOJ15552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day3/BOJ2480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day4/BOJ2440.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day4/BOJ25304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day5/BOJ10039.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day5/BOJ3046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day6/BOJ10808.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day6/BOJ5543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day7/BOJ10101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day7/BOJ2530.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day7/BOJ2752.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day8/BOJ10797.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day9/BOJ10156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day9/BOJ24263.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day9/BOJ2845.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze4/day9/BOJ5554.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day3/BOJ10951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day3/BOJ11022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day4/BOJ10926.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day4/BOJ11382.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day4/BOJ11654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day4/BOJ18108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ10757.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ10807.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ2475.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ25083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ25314.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ2558.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ2743.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ3003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ7287.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day5/BOJ9086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ10699.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ11942.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ2420.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ27323.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ2744.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ27866.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bronze5/day6/BOJ4101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ1000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ1001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ1008.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ10430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ10430.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ10718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ10718.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ10869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ10869.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ10998.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ10998.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ1330.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ2438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ2438.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ2557.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ2557.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ2739.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ2739.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1/BOJ9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day1/BOJ9498.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10171.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10172.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10871.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10871.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10950.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10950.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ10952.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ10952.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ11021.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ11021.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ14681.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ14681.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ2741.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ2741.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ2753.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2/BOJ8393.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze5/day2/BOJ8393.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/BOJ24723.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bronze4/BOJ9316.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ10039.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ10039.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ10101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ10101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ10156.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ10156.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ10797.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ10797.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ10808.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ10808.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ11365.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ11365.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ11720.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ1264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ1264.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ15439.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ15439.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ15552.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ15552.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ24263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ24263.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ2439.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ2439.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ2440.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ2440.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ2480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ2480.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ2530.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ2530.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ25304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ25304.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ2742.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ2742.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ2752.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ2752.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ2845.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ2845.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ3046.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ3046.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ5532.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ5532.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ5543.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ5543.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ5554.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ5554.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ5596.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ5596.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bronze4/BOJ5717.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bronze4/BOJ5717.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +49,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kgrace2366&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kgrace2366/java-algorithm-practice.git&quot;,
+    &quot;accountId&quot;: &quot;ea740976-d3ae-4a02-97dd-ab698a18ba28&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -129,6 +95,7 @@
     "Application.BOJ10998.executor": "Debug",
     "Application.BOJ11021.executor": "Run",
     "Application.BOJ11022.executor": "Run",
+    "Application.BOJ11365.executor": "Run",
     "Application.BOJ11382.executor": "Run",
     "Application.BOJ11654.executor": "Run",
     "Application.BOJ11720.executor": "Run",
@@ -143,6 +110,7 @@
     "Application.BOJ2438.executor": "Debug",
     "Application.BOJ2439.executor": "Run",
     "Application.BOJ2440.executor": "Run",
+    "Application.BOJ24723.executor": "Run",
     "Application.BOJ2475.executor": "Run",
     "Application.BOJ2480.executor": "Run",
     "Application.BOJ25083.executor": "Run",
@@ -167,14 +135,16 @@
     "Application.BOJ5543.executor": "Run",
     "Application.BOJ5554.executor": "Run",
     "Application.BOJ5596.executor": "Run",
+    "Application.BOJ5717.executor": "Run",
     "Application.BOJ7287.executor": "Run",
     "Application.BOJ8393.executor": "Run",
     "Application.BOJ9086.executor": "Run",
+    "Application.BOJ9316.executor": "Run",
     "Application.BOJ9498.executor": "Run",
     "Application.Boj2557.executor": "Debug",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Program Files/Spring/codingtest",
@@ -184,6 +154,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Program Files/Spring/codingtest/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -192,13 +163,13 @@
       <recent name="day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ5532">
-    <configuration name="BOJ1264" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bronze4.day10.BOJ1264" />
+  <component name="RunManager" selected="Application.BOJ9316">
+    <configuration name="BOJ11365" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze4.BOJ11365" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bronze4.day10.*" />
+          <option name="PATTERN" value="Bronze4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ15439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bronze4.day10.BOJ15439" />
+    <configuration name="BOJ24723" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze4.BOJ24723" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bronze4.day10.*" />
+          <option name="PATTERN" value="Bronze4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,11 +191,11 @@
       </method>
     </configuration>
     <configuration name="BOJ5532" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bronze4.day12.BOJ5532" />
+      <option name="MAIN_CLASS_NAME" value="Bronze4.BOJ5532" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bronze4.day12.*" />
+          <option name="PATTERN" value="Bronze4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ5554" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bronze4.day9.BOJ5554" />
+    <configuration name="BOJ5717" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze4.BOJ5717" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bronze4.day9.*" />
+          <option name="PATTERN" value="Bronze4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ5596" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bronze4.day11.BOJ5596" />
+    <configuration name="BOJ9316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bronze4.BOJ9316" />
       <module name="codingtest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bronze4.day11.*" />
+          <option name="PATTERN" value="Bronze4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ9316" />
+        <item itemvalue="Application.BOJ24723" />
+        <item itemvalue="Application.BOJ11365" />
+        <item itemvalue="Application.BOJ5717" />
         <item itemvalue="Application.BOJ5532" />
-        <item itemvalue="Application.BOJ5596" />
-        <item itemvalue="Application.BOJ15439" />
-        <item itemvalue="Application.BOJ1264" />
-        <item itemvalue="Application.BOJ5554" />
       </list>
     </recent_temporary>
   </component>
@@ -311,6 +282,10 @@
       <workItem from="1733448020427" duration="363000" />
       <workItem from="1733557860939" duration="279000" />
       <workItem from="1733707017122" duration="294000" />
+      <workItem from="1733721950600" duration="655000" />
+      <workItem from="1733801182258" duration="1088000" />
+      <workItem from="1733802292112" duration="348000" />
+      <workItem from="1733882029184" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="day 2">
       <option name="closed" value="true" />

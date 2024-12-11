@@ -1,4 +1,4 @@
-package Bronze4.day1;
+package Bronze4;
 
 import java.util.Scanner;
 

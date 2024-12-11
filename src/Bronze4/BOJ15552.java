@@ -1,4 +1,4 @@
-package Bronze4.day2;
+package Bronze4;
 
 import java.io.*;
 import java.util.StringTokenizer;
